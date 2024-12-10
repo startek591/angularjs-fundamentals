@@ -16,6 +16,8 @@ module.exports = function (config) {
       'node_modules/angular-mocks/angular-mocks.js',
       './1_databinding-first-app/app.js',
       './1_databinding-first-app/app.spec.js',
+      './2_scopes/script.js',
+      './2_scopes/script.spec.js',
     ],
 
     // list of files / patterns to exclude
