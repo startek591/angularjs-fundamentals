@@ -18,6 +18,8 @@ module.exports = function (config) {
       './1_databinding-first-app/app.spec.js',
       './2_scopes/script.js',
       './2_scopes/script.spec.js',
+      './3_controllers/1_basics/app.js',
+      './3_controllers/1_basics/app.spec.js',
     ],
 
     // list of files / patterns to exclude
