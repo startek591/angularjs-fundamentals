@@ -22,6 +22,8 @@ module.exports = function (config) {
       './3_controllers/1_basics/app.spec.js',
       './3_controllers/2_actions/script.js',
       './3_controllers/2_actions/script.spec.js',
+      './3_controllers/3_inheritance/app.js',
+      './3_controllers/3_inheritance/app.spec.js',
     ],
 
     // list of files / patterns to exclude
